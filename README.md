@@ -1,3 +1,3 @@
 ## THIS IS MY GITHUB PAGE
-I AM AHSAN NAJMY RAMADHAN PUTRA AJI  
-CURRENTLY TAKING OPERATING SYSTEM COURSE
+Nama saya Ahsan Najmy  
+Saat ini sedang mengambil mata kuliah Sistem Operasi Genap 2021/2022

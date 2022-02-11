@@ -1,9 +1,20 @@
-# OS221
-Operating Systems 2022-1  
-
-## Tentang Saya
-Halo nama saya Ahsan dan saat ini saya sedang mengambil mata kuliah OS 2021  
-Nama Lengkap => Ahsan Najmy Ramadhan Putra Aji  
-NPM => 1906398641   
-
+---
+---
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>
+[HOME]({{ site.baseurl }}/) ---
+[LOG]({{ site.myloglink }}) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[GITHUB]({{ site.githublink }})
+<br>
+<hr>
+This is {{ site.title }} and I am {{ site.author }}.
+<br><br>
+Qapla!
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
 

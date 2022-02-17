@@ -11,4 +11,3 @@ Ahsan Najmy Ramadhan Putra Aji - 1906398641
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
-<br

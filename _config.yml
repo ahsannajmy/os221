@@ -3,7 +3,7 @@ copyright:   "2022"
 author:      "Ahsan Najmy"
 title:       "OS221: Operating Systems 2022-1"
 githublink:  "https://github.com/ahsannajmy/os221"
-myloglink:   "mylog.txt"
+myloglink:   "txt/mylog.txt"
 encoding:    UTF-8
 markdown:    kramdown
 input:       GFM

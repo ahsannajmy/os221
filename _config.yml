@@ -9,4 +9,4 @@ markdown:    kramdown
 input:       GFM
 hard_wrap:   false
 github:      [metadata]
-test: "test"
+test:        "test"

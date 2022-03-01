@@ -13,7 +13,8 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://www.os-book.com/OS9/index.html)<br>
+1. [Operating System Concepts
+Ninth Edition](https://www.os-book.com/OS9/index.html)<br>
 Referensi lain materi dan soal Operating System
 
 

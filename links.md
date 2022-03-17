@@ -16,7 +16,8 @@ permalink: LINKS/
 1. [Operating System Concepts
 Ninth Edition](https://www.os-book.com/OS9/index.html)<br>
 Referensi lain materi dan soal Operating System
-
+2. [Virtual Memory Page Faults](https://www.youtube.com/watch?v=bShqyf-hDfg&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&index=8)<br>
+Materi terkait page fault pada virtual memory
 
 <br>
 <hr>

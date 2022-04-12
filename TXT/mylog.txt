@@ -19,6 +19,10 @@ ZCZC W04 200 L02 ZOOM meetings related
 ZCZC W05 200 L02 ZOOM meetings related
 ZCZC W05 100 L02 ZOOM meetings related
 ZCZC W05 60 L11 Assignment #01
+ZCZC W06 200 L02 ZOOM meetings related
+ZCZC W06 100 L02 ZOOM meetings related
+ZCZC W06 60 L11 Assignment #01
+
 
 
 

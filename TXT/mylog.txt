@@ -27,3 +27,10 @@ ZCZC W07 100 L02 ZOOM meetings related
 ZCZC W07 60 L11 Assignment #01
 ZCZC W07 20 L06 References/Books/Documents/GSGS related
 ZCZC W07 10 L07 Demo related
+ZCZC W08 200 L02 ZOOM meetings related
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08 60 L11 Assignment #01
+ZCZC W08 20 L06 References/Books/Documents/GSGS related
+ZCZC W08 10 L07 Demo related
+
+
